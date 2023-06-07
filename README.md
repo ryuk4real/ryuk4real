@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pasquale</h1>
+<h1 align="center">Hi 👋, I'm Ryuk</h1>
 
 - 🔭 I’m currently studying at **Università della Calabria**
 
