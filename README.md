@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm from Italy<br>Italy<br>- 📚 I'm currently learning Artificial Intelligence and Data Science<br>- ⚡ In my free time I learn japanese and watch my life falling apart</p>
+<p align="left">🇮🇹I'm from <br>Italy<br>- 📚 I'm currently learning <br>Artificial Intelligence and Data Science<br>- ⚡ In my free time I learn japanese and watch my life falling apart</p>
 
 ###
 
