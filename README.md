@@ -10,12 +10,12 @@
 
 ### 🔭 About Me
 
-```javascript
-const ryuk4real = {
-    location: "Italy",
-    studying: "Artificial Intellifence and Data Science @ UNICAL",
-    interests: ["Games", "Artificial Intelligence"],
-};
+```prolog
+location("Italy").
+studying("Artificial Intelligence and Data Science @ UNICAL").
+interests("Games").
+interests("Music").
+interests("Mangas").
 ```
 
 ### 📊 Languages & Technologies
