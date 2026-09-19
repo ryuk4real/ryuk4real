@@ -24,7 +24,7 @@ interests("Mangas").
 
 | Level | Topic | Description |
 | :--- | :--- | :--- |
-| **MSc** | **🌋 CUDA Dynamic Parallelism applied to Geophysical Simulations** | *(WIP)* |
+| **MSc** | **🛘 SciddicaT: Kernel Optimizations using CUDA Dynamic Parallelism** | Accelerating landslide and debris flow simulations via sparse-optimized computational kernels |
 | **BSc** | **🎲 Procedural Content Generation using Generative Datalog** | Procedural content generation for a Roguelike game based in the rooms of the University of Calabria by leveraging Generative Datalog dynamic probabilistic distributions. |
 
 ---
